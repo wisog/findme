@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <form action="/selected_language" method="post">
+        <p>What is your favorite language?</p>
+        <#list languages as language>
+            <p>
+                <input type="radio" name="language" value="${language}">${language}</input>
+            </p>
+        </#list>
+        <input type="submit" value="Submit" />
+    </form>
+</body>
+</html>
