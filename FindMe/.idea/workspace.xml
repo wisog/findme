@@ -8,7 +8,7 @@
     <file path="/FreeMarkerHelloWorld.java" changelist="03b6abe3-fd55-4c75-855d-251d865fda1b" time="1398039760583" ignored="false" />
     <file path="/hello.ftl" changelist="03b6abe3-fd55-4c75-855d-251d865fda1b" time="1398042125561" ignored="false" />
     <file path="/fragment.java" changelist="03b6abe3-fd55-4c75-855d-251d865fda1b" time="1398039647954" ignored="false" />
-    <file path="/Home.html" changelist="03b6abe3-fd55-4c75-855d-251d865fda1b" time="1398045500703" ignored="false" />
+    <file path="/Home.html" changelist="03b6abe3-fd55-4c75-855d-251d865fda1b" time="1398651257506" ignored="false" />
     <file path="/PruebaFreeMarkerSpark.java" changelist="03b6abe3-fd55-4c75-855d-251d865fda1b" time="1398044381648" ignored="false" />
     <file path="/TestLanguages.java" changelist="03b6abe3-fd55-4c75-855d-251d865fda1b" time="1398046091965" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -86,8 +86,10 @@
       <file leaf-file-name="Home.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/Home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="23" selection-start="403" selection-end="403" vertical-scroll-proportion="0.64498645">
-              <folding />
+            <state line="16" column="89" selection-start="460" selection-end="460" vertical-scroll-proportion="0.68711656">
+              <folding>
+                <element signature="n#style#0;n#input#0;n#p#0;n##list#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -95,7 +97,7 @@
       <file leaf-file-name="TestLanguages.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/desarrollamesta/TestLanguages.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="69" selection-start="1409" selection-end="1409" vertical-scroll-proportion="0.0">
+            <state line="36" column="64" selection-start="1172" selection-end="1172" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="docComment;class#TestLanguages#0" expanded="false" />
@@ -142,8 +144,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/desarrollamesta/Test.form" />
         <option value="$PROJECT_DIR$/src/main/resources/hello.ftl" />
         <option value="$PROJECT_DIR$/src/main/java/com/desarrollamesta/PruebaFreeMarkerSpark.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/Home.html" />
         <option value="$PROJECT_DIR$/src/main/java/com/desarrollamesta/TestLanguages.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/Home.html" />
       </list>
     </option>
   </component>
@@ -155,10 +157,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1352" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
-    <option name="height" value="784" />
+    <option name="height" value="754" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -301,6 +303,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="dynamic.classpath" value="false" />
@@ -530,8 +533,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1352" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.67145133" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -548,8 +551,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.67145133" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24848485" sideWeight="0.67145133" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32854864" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24848485" sideWeight="0.6549414" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34505862" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -645,15 +648,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/desarrollamesta/SparkHelloWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="66" selection-start="383" selection-end="383" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/hello.ftl">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="7" selection-start="95" selection-end="95" vertical-scroll-proportion="0.0">
@@ -671,9 +665,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/desarrollamesta/SparkHelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="66" selection-start="383" selection-end="383" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/desarrollamesta/TestLanguages.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="69" selection-start="1409" selection-end="1409" vertical-scroll-proportion="0.0">
+        <state line="36" column="64" selection-start="1172" selection-end="1172" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="docComment;class#TestLanguages#0" expanded="false" />
@@ -684,8 +687,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/Home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="23" selection-start="403" selection-end="403" vertical-scroll-proportion="0.64498645">
-          <folding />
+        <state line="16" column="89" selection-start="460" selection-end="460" vertical-scroll-proportion="0.68711656">
+          <folding>
+            <element signature="n#style#0;n#input#0;n#p#0;n##list#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
